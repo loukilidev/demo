@@ -1,1 +1,1 @@
-# License
+# License 2.0
